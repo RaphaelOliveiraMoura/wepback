@@ -1,6 +1,6 @@
-This is a repository made for personal ownt prupose in to learn about how webpack works, and how can I made a project and configure the webpack for it.
+This is a repository made for personal own prupose to learn about how webpack works, and how can I made a project and configure the webpack for it.
 
-Probably will be a lot o language syntax errors, because I made this documentation in english to practice the language, so I'm sorry ^^
+Probably will be a lot of language syntax errors, because I made this documentation in english to practice the language, so I'm sorry for anything ^^
 
 This documentation was made using this <a href="https://medium.com/rocketseat/entendendo-e-dominando-o-webpack-4b2e8b3e02da">article</a> and another fonts as reference
 
