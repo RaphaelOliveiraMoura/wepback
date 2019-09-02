@@ -1,0 +1,15 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "main": "",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "build:development": "webpack --mode development",
+    "build:production": "webpack --mode production"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
+  }
+}
